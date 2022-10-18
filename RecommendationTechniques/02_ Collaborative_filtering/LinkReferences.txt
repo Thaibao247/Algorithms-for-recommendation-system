@@ -1,0 +1,13 @@
+https://machinelearningcoban.com/2017/05/24/collaborativefiltering/
+
+https://machinelearningcoban.com/2017/05/31/matrixfactorization/
+
+https://stanford.edu/~rezab/classes/cme323/S15/notes/lec14.pdf
+
+https://phamdinhkhanh.github.io/2019/11/04/Recommendation_Compound_Part1.html
+
+https://spark.apache.org/docs/2.2.0/ml-collaborative-filtering.html
+
+https://towardsdatascience.com/build-recommendation-system-with-pyspark-using-alternating-least-squares-als-matrix-factorisation-ebe1ad2e7679
+
+https://viblo.asia/p/cong-nghe-matrix-factorization-cho-he-thong-goi-y-naQZRJe0Zvx
