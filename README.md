@@ -10,8 +10,10 @@
 #### Demo
 
 ## How to install demo:
-#### ...
-#### ...
+#### Install python 3..
+#### Install libraries: 
+#### Clone project: 
+#### Run demo
 
 ## References:
 #### [alyari2018](https://drive.google.com/file/d/1RkB0PMpJylbo4kg6H5V0urW8OZ1ww-nd/view)
