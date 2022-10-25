@@ -10,11 +10,11 @@
 #### Demo
 
 ## How to install demo:
-#### Install Python 3.x
+### Install Python 3.x
 Python3 (Python 3.x) almost all come pre-installed with PIP manager.
 #### Install jupyter notebook by Anaconda or you can use VSCode tool
 You can download Anaconda [here](https://www.anaconda.com/).
-#### Install libraries: 
+### Install libraries: 
 Using pip or conda to install:
 - numpy
 - pandas
@@ -23,10 +23,10 @@ Using pip or conda to install:
 - pyspark
 - sklearn
 - 
-#### Clone project: 
+### Clone project: 
 You can download project [here](https://github.com/Thaibao247/Algorithms-for-recommendation-system.git) and open it on jupyter notebook
 Or you can download [Git](https://git-scm.com/downloads) and run comand line: `git clone https://github.com/Thaibao247/Algorithms-for-recommendation-system.git` in terminal of VSCode tool
-#### Run demo
+### Run demo
 
 ## References:
 #### [alyari2018](https://drive.google.com/file/d/1RkB0PMpJylbo4kg6H5V0urW8OZ1ww-nd/view)
