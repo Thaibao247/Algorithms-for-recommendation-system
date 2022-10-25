@@ -26,7 +26,7 @@ Using pip or conda to install:
 ### Clone project: 
 You can download project [here](https://github.com/Thaibao247/Algorithms-for-recommendation-system.git) and open it on jupyter notebook
 Or you can download [Git](https://git-scm.com/downloads) and run comand line: `git clone https://github.com/Thaibao247/Algorithms-for-recommendation-system.git` in terminal of VSCode tool
-### Run demo:
+### Some demo:
 - [content-based](https://github.com/Thaibao247/Algorithms-for-recommendation-system/blob/main/RecommendationTechniques/01_%20Content_based_filtering/demo.ipynb)
 - Collaborative filtering: [model-based](https://github.com/Thaibao247/Algorithms-for-recommendation-system/blob/main/RecommendationTechniques/02_%20Collaborative_filtering/Model-based-using-ALS.ipynb) and [memory-based](https://github.com/Thaibao247/Algorithms-for-recommendation-system/blob/main/RecommendationTechniques/02_%20Collaborative_filtering/Memory-based-using-SVD.ipynb)
 - Knowledge-based
